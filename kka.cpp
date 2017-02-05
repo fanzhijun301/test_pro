@@ -2,6 +2,6 @@
 #include <fstream>
 
 int abc() {
-	printf("this is a computer");
+	printf("this is a computer not ad ");
 	return 1;
 }
